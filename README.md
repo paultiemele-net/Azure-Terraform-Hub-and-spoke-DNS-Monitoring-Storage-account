@@ -19,7 +19,11 @@ Private DNS Zones and DNS Links
 Azure Monitor and Log Analytics Workspace
 Data Collection Rules (DCR) for VM monitoring
 Terraform Outputs for infrastructure visibility
+
+-------------
 Technologies
+-------------
+
 Terraform
 Microsoft Azure
 Azure Virtual Network
